@@ -1,3 +1,5 @@
 Hello Git 
 My name is shivangi
 i am learning Git and GitHub
+I am practicing Git branches.
+This is my profile feature.
